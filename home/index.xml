@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Soft Matter @ IMSc </title>
+    <link>http://replace-this-with-your-website-url.com/home/</link>
+    <description>Recent content in Homes on Soft Matter @ IMSc </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Ronojoy Adhikari</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-website-url.com/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>http://replace-this-with-your-website-url.com/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-website-url.com/home/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;biography&#34;&gt;Biography&lt;/h1&gt;
+
+&lt;p&gt;Ronojoy Adhikari is a scientist at The Institute of Mathematical Sciences, Chennai. His research focusses on two main areas, investigating the physics of materials and designing algorithms that make machines mimic human intelligence.&lt;/p&gt;
+
+&lt;p&gt;Ronojoy is a recipient of the Faculty Research Award from Google Inc and of the DAE-SRC Outstanding Investigator Award from the Department of Atomic Energy, Government of India. He has been Hamied Visiting Lecturer at Cambridge University and Indo-US Science and Technology Fellow at Princeton University and New York University. Ronojoy earned a doctorate in physics from the Indian Institute of Science and then worked as a post-doctoral fellow at the University of Edinburgh.&lt;/p&gt;
+
+&lt;p&gt;Ronojoy&amp;rsquo;s research has been covered in national and international media, including the BBC and Time Magazine. Ronojoy has a wide interest in music and in his free time is either playing sarodes badly or taking them apart to study their physics.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
